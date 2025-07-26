@@ -28,7 +28,7 @@ It aims to provide a simple and modular foundation for building web applications
 Clone the repository and fetch dependencies:
 
 ```bash
-git clone https://github.com/yourusername/serum.git
+git clone https://github.com/Tchilly/serum.git
 cd serum
 mix deps.get
 ```
